@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log*
+.yarn*
+.expo
+.expo-shared
+.DS_Store
+backend/data
+backend/dist
