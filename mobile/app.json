@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Lobby",
+    "slug": "lobby",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "52.0.0"
+  }
+}
